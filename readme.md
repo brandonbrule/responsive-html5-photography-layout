@@ -16,10 +16,10 @@ talented developers make the template freely available. It's awesome.
 
 Future Plans
 
-4 column, 3 column layouts
-Wordpress Theme
-Comments
-Automated Image Optimization
+4 column, 3 column layouts, light coloured theme,
+Wordpress Theme,
+Comments,
+Automated Image Optimization,
 
 
 
