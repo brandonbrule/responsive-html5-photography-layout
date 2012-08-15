@@ -1,7 +1,7 @@
 # HTML5 Boilerplate Responsive Photography Layout
 
 One and two column responsive layout focused on visual imagery. 
-http://colonel-by-bridge.brandonbrule.com/  Live Example
+http://responsive.brandonbrule.com/photography-template/ Live Example
 
 The main goal was to try to make a template that would look good with landscape
 and horizontal pictures across all devices.
