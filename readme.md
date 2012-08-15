@@ -9,7 +9,7 @@ and horizontal pictures across all devices.
 There's no difference in the way images are served yet but that's something I'm looking into.
 I would love any tips, suggestions and to hear how you handle images if you find my code here.
 
-I built this using the html5 Boilerplate framework and have left it completely as is.
+This was built using the html5 Boilerplate framework.
 
 I really recommend reading up on it.  It has a great story and a lot of extremely 
 talented developers make the template freely available. It's awesome.
