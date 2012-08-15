@@ -1,0 +1,36 @@
+.foursixty{float:left;width:420px;margin:0 5%;}
+body{
+		width:960px;
+	}
+header#header{
+	margin:20% 0;
+}
+
+@media only screen and (max-width: 1920px)  and (min-width: 340px){
+	body{
+		width:960px;
+		margin:0 auto;
+	}
+	
+	h1{font-size:2em;}
+	h2{font-size:1.2em;}
+	
+	
+	hr {
+
+		height: 10%;
+		font-size:0.04em;
+	}
+	
+	dt{
+		font-size:2em;
+		text-align:left;
+	}
+	
+	dd{font-size:1.2em;margin:0!important;text-align:left;}
+
+	header#header{
+		margin:10% 0;
+	}
+	.foursixty{float:left;}
+}
